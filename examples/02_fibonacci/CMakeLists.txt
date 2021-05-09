@@ -1,0 +1,2 @@
+add_executable(02_fibonacci 02_fibonacci.cpp)
+target_link_libraries(02_fibonacci bettercpp)

@@ -1,0 +1,4 @@
+add_subdirectory(01_simple)
+add_subdirectory(02_fibonacci)
+add_subdirectory(03_objects)
+add_subdirectory(04_arrays)
